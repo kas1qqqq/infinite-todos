@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/infinite-todos/static/css/main.d358c448.css",
+    "main.js": "/infinite-todos/static/js/main.2d19c345.js",
+    "index.html": "/infinite-todos/index.html",
+    "main.d358c448.css.map": "/infinite-todos/static/css/main.d358c448.css.map",
+    "main.2d19c345.js.map": "/infinite-todos/static/js/main.2d19c345.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d358c448.css",
+    "static/js/main.2d19c345.js"
+  ]
+}
